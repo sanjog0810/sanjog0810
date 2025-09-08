@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Sanjog  
 
-<!--
-**sanjog0810/sanjog0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Developer | Fullstack Explorer | AI Innovator**  
 
-Here are some ideas to get you started:
+I love transforming **ideas into working products** by building reliable backends, intuitive frontends, and exploring the power of **AI in real-world applications**.  
+My journey revolves around creating projects that are not just code, but **solutions with impact**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 About Me  
+- 🔭 Currently building: **MockPrep** – an AI-powered mock interview platform  
+- 🌱 Expanding my skills in: **Spring Boot (advanced)**, **AWS cloud**, and **Docker**  
+- 👯 Open to collaborate on: **Backend systems, AI-driven products, and Open Source**  
+- 💬 Let’s talk about: **Backend architecture, APIs, Cloud, and AI integrations**  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sanjog-singh08/) | [Email](sanjogsingh.p@gmail.com)  
+
+---
+
+### 🛠️ Tech Stack  
+- **Languages**: Java, Python  
+- **Backend**: Spring Boot, REST APIs, JWT Auth, Microservices  
+- **Frontend**: React 
+- **Database**: MySQL, PostgreSQL, MongoDB  
+- **DevOps/Cloud**: Docker, AWS (EC2, S3, RDS)  
+
+
+
+---
+
+⭐️ *“I don’t just write code, I craft solutions.”*  
+
