@@ -12,7 +12,7 @@ My journey revolves around creating projects that are not just code, but **solut
 - 🌱 Expanding my skills in: **Spring Boot (advanced)**, **AWS cloud**, and **Docker**  
 - 👯 Open to collaborate on: **Backend systems, AI-driven products, and Open Source**  
 - 💬 Let’s talk about: **Backend architecture, APIs, Cloud, and AI integrations**  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sanjog-singh08/) | [Email](sanjogsingh.p@gmail.com)  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sanjog-singh08/) | [Email](mailto:sanjogsingh.p@gmail.com)  
 
 ---
 
