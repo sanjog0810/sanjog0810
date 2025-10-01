@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sanjog  
 
-🚀 **Backend Developer | Fullstack Explorer | AI Innovator**  
+🚀 **Backend Developer | AI Innovator**  
 
 I love transforming **ideas into working products** by building reliable backends, intuitive frontends, and exploring the power of **AI in real-world applications**.  
 My journey revolves around creating projects that are not just code, but **solutions with impact**.  
