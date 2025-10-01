@@ -28,4 +28,5 @@ My journey revolves around creating projects that are not just code, but **solut
 ---
 
 ⭐️ *“I don’t just write code, I craft solutions.”*  
+![Profile Views](https://komarev.com/ghpvc/?username=sanjog0810&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
